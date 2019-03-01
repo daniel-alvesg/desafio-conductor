@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conductor</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="card_num">xxxx xxxx xxxx</string>
+    <string name="card_gasto">Gasto</string>
+    <string name="card_disponivel">Disponivel</string>
+    <string name="rs">R$</string>
+    <string name="mastercard">mastercard</string>
+</resources>
